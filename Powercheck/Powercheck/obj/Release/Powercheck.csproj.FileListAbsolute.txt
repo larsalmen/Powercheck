@@ -1,0 +1,9 @@
+C:\Users\lars\OneDrive\Dokument\Visual Studio 2015\Projects\Powercheck\Powercheck\bin\Release\Powercheck.exe.config
+C:\Users\lars\OneDrive\Dokument\Visual Studio 2015\Projects\Powercheck\Powercheck\bin\Release\Powercheck.exe
+C:\Users\lars\OneDrive\Dokument\Visual Studio 2015\Projects\Powercheck\Powercheck\bin\Release\Powercheck.pdb
+C:\Users\lars\OneDrive\Dokument\Visual Studio 2015\Projects\Powercheck\Powercheck\obj\Release\Powercheck.csprojResolveAssemblyReference.cache
+C:\Users\lars\OneDrive\Dokument\Visual Studio 2015\Projects\Powercheck\Powercheck\obj\Release\Powercheck.Form1.resources
+C:\Users\lars\OneDrive\Dokument\Visual Studio 2015\Projects\Powercheck\Powercheck\obj\Release\Powercheck.Properties.Resources.resources
+C:\Users\lars\OneDrive\Dokument\Visual Studio 2015\Projects\Powercheck\Powercheck\obj\Release\Powercheck.csproj.GenerateResource.Cache
+C:\Users\lars\OneDrive\Dokument\Visual Studio 2015\Projects\Powercheck\Powercheck\obj\Release\Powercheck.exe
+C:\Users\lars\OneDrive\Dokument\Visual Studio 2015\Projects\Powercheck\Powercheck\obj\Release\Powercheck.pdb
